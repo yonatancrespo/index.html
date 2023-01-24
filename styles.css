@@ -1,0 +1,71 @@
+body{
+    background: white;
+    margin:100px;
+    text-align: ;
+    border: 3px solid black;
+    
+    padding: 0%;
+   
+    }
+    
+    div{
+    box-sizing: border-box;
+    margin: 0%;
+    }
+    header{
+    background: white;
+    padding: 12px;
+    float: left;
+    
+    }
+    header h1{
+      margin:0;
+      float: right;
+      display: inline;
+
+    }
+    div.post{
+         background: white;
+         margin-top: 10px;
+         
+         
+         }
+         div.post img{
+         width: 100%;
+         margin-bottom: 2%;
+         }
+         div.post-header div:first-child{
+         display: inline;
+         width: 20%;
+         
+         }
+         div.post-header div:last-child{
+         display: inline-block;
+         width: 20%;
+         padding: 20px;
+         text-align: right;
+         color: gray;
+         float: right;
+            }
+         div.post  h2,div.post p{
+         padding: 10px;
+         margin: 1;
+         }
+         div.contrainer{
+         width: 100%;
+         margin: 1%;
+         border: 3px solid black;
+         } 
+         img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 100%;
+         }
+        h2{
+          float: left;
+        }
+        .span{
+          float: right;
+        }
+          
